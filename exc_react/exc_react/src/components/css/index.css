@@ -1,0 +1,59 @@
+.container {
+    align-items: center;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+  }
+  
+    input {
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+  }  
+
+  .botaoFavoritar, .botaoDesfavoritar {
+    background-color: #6b46c1;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+
+  .botaoExcluir {
+    background-color: #d63031;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .title {
+    font-family: Homenaje, sans-serif;
+    font-size: 20px;
+    color: greenyellow;
+  }
+
+  .foto{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    
+  }
+
+  .main{
+    margin-top: 30px;
+  }
+
+  .col-4{
+    width: -webkit-fill-available;
+  }
+
+  .nome{
+    font-size: 30px;
+  }
+
+
+  
